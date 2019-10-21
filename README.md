@@ -1,2 +1,0 @@
-# DmitryLynch
-NevadaRP Bot
